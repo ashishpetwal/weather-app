@@ -14,7 +14,7 @@ You can see a live demo of this app at https://weather-app-lemon-eta.vercel.app/
 
 ## Installation
 
- 1. Clone the repository: ```git clone https://github.com/your-username/weather-app.git```
+ 1. Clone the repository: ```git clone https://github.com/ashishpetwal/weather-app.git```
  2. Navigate to the project directory: ```cd weather-app```
  3. Install dependencies: ```npm install```
  4. Create a .env file in the root directory with your OpenWeatherMap API key: REACT_APP_API_KEY=your-api-key
