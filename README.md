@@ -31,6 +31,7 @@ You can see a live demo of this app at https://weather-app-lemon-eta.vercel.app/
  - React.js
  - OpenWeatherMap API
  - Font Awesome
+ - Tailwind CSS
 
 ## Contributing
 
@@ -40,4 +41,5 @@ Contributions are welcome! If you have any suggestions or bug reports, please op
 
  - The [React documentation](https://reactjs.org/docs/getting-started.html) for providing a helpful guide to building React apps
  - The [OpenWeatherMap API documentation](https://openweathermap.org/api) for providing detailed information on their API
- - The creators of [FontAwesome Icons](https://fontawesome.com/docs) for providing a vast range of icons.
+ - The amazingly built [Tailwind CSS](https://tailwindcss.com/docs/installation) for creating modern webpages only with HTML
+ - The creators of [FontAwesome Icons](https://fontawesome.com/docs) for providing a vast range of icons
